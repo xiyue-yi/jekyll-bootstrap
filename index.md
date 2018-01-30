@@ -1,3 +1,8 @@
+---
+layout: page
+title: Hello World!
+tagline: Supporting tagline
+---
 # Alastair Blake Campbell
 
 *alastair.campbell@runbox.no*
