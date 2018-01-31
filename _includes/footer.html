@@ -1,6 +1,13 @@
-    <!-- Footer -->
-    <footer>
-        <div class="container text-center">
-            <p>Copyright &copy; {{ site.footer }} 20{{ site.time | date: '%y' }}</p>
-        </div>
-    </footer>
+{% if site.theme_settings.footer_text %}
+<footer class="site-footer">
+    <p class="text">{{ site.theme_settings.footer_text }}</p>
+            <div class="footer-icons">
+                <ul>
+                <!-- Social icons from Font Awesome, if enabled -->
+                {% include icons.html %}
+                </ul>
+            </div>
+</footer>
+{% endif %}
+
+
