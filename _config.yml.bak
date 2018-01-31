@@ -20,7 +20,7 @@ author :
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#000000'
-  links: '#219ab3'
+  links: '#ee7942'
   
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
