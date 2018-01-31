@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: http://xiyue-yi.github.io
 url: "https://xiyue-yi.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
