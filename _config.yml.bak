@@ -5,7 +5,7 @@ url: "https://xiyue-yi.github.io"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: LELE
+  title: Type on Strap
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
